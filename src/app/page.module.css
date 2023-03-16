@@ -147,7 +147,7 @@
 /* Inner Square */
 .thirteen::after {
   inset: 0;
-  padding: 1px;
+  padding: 2px;
   border-radius: var(--border-radius);
   background: linear-gradient(
     to bottom right,
