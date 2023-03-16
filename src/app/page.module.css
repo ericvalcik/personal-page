@@ -80,6 +80,12 @@
   padding: 4rem 0;
 }
 
+.text {
+  background: linear-gradient(to right, #8d0808, #ff2b2b);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
 .center::before {
   background: var(--secondary-glow);
   border-radius: 50%;
