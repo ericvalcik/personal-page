@@ -19,19 +19,19 @@ export default function Home() {
         <div className="flex gap-4">
           <a
             className="underline decoration-gray-200 hover:decoration-gray-600 transition-all duration-200"
-            href="#"
+            href="https://twitter.com/ericvalcikk"
           >
             Twitter
           </a>
           <a
             className="underline decoration-gray-200 hover:decoration-gray-600 transition-all duration-200"
-            href="#"
+            href="https://github.com/ericvalcik"
           >
             GitHub
           </a>
           <a
             className="underline decoration-gray-200 hover:decoration-gray-600 transition-all duration-200"
-            href="#"
+            href="https://www.instagram.com/ericvalxik/"
           >
             Instagram
           </a>
