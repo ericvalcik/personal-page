@@ -12,7 +12,7 @@ export default function Home() {
         </div>
         <div className="pt-6">
           I started coding in high school and got my first job as a developer in
-          the first year of my bachelor&apos;s studies. I got my bachelor&apos;s
+          the first year of my bachelor&apos;s studies. In 2023, I got my bachelor&apos;s
           degree in Computer Science from Masaryk University.
         </div>
         <hr className="my-12 w-full" />
